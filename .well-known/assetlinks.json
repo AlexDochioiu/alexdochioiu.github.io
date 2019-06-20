@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.uk.youandb.android.b.dev.debug",
+    "sha256_cert_fingerprints":
+    ["6F:3D:C6:9E:6D:4A:AF:E3:95:4A:59:C5:CA:9A:99:32:AE:B5:15:0F:0A:ED:25:E2:12:0C:A4:E8:F9:5F:6B:73"]
+  }
+}]
